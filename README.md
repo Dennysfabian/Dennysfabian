@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### soy [DennysCarrillo] 👋
 
 🔭 Actualmente trabajando en proyectos de desarrollo web y diseño de interfaces.
